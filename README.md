@@ -34,3 +34,5 @@ In order to run the game and to start playing, you must download all files and r
 > make
 > 
 > ./bin/main
+>
+> (you may need cmake/make tools on your IDE if not already downloaded)
