@@ -36,3 +36,10 @@ In order to run the game and to start playing, you must download all files and r
 > ./bin/main
 >
 > (you may need cmake/make tools on your IDE if not already downloaded)
+> If you do not want to download extension, you can run
+>
+> cd src
+>
+> g++ main.cpp
+>
+> ./a.out
